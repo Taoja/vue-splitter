@@ -1,0 +1,28 @@
+{
+  "name": "vue-splitter",
+  "version": "1.2.6",
+  "description": "分页器",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "黄武韬（346792184@qq.com）",
+  "license": "ISC",
+  "dependencies": {
+    "archiver": "^3.0.0",
+    "copy-webpack-plugin": "^4.5.2",
+    "file-loader": "^2.0.0",
+    "friendly-errors-webpack-plugin": "^1.7.0",
+    "fs": "^0.0.1-security",
+    "html-webpack-plugin": "^3.2.0",
+    "path": "^0.12.7",
+    "readline": "^1.3.0",
+    "rimraf": "^2.6.3",
+    "url-loader": "^1.1.2",
+    "webpack": "^4.16.5",
+    "webpack-cli": "^3.1.0",
+    "webpack-dashboard": "^2.0.0",
+    "webpack-dev-server": "^3.1.7"
+  },
+  "devDependencies": {}
+}
