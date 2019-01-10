@@ -1,12 +1,27 @@
 {
   "name": "vue-splitter",
   "version": "1.2.6",
-  "description": "分页器",
+  "description": "a tools for vue",
+  "keywords": "splitter vue vue-splitter split vue-split multi multipage",
   "main": "index.js",
+  "bugs": {
+    "url": "https://github.com/Taoja/vue-splitter/issues",
+    "email": "346792184@qq.com"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "黄武韬（346792184@qq.com）",
+  "author": {
+    "name": "黄武韬",
+    "email": "346792184@qq.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Taoja/vue-splitter"
+  },
+  "engines": {
+    "node": ">=6.11.5"
+  },
   "license": "ISC",
   "dependencies": {
     "archiver": "^3.0.0",
